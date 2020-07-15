@@ -1,4 +1,6 @@
-{"listData":[
+{
+  "divList":["All","Phone","App","Game"],
+  "listData":[
 {"div":"phone","name":"Huawei","url":"","logo":"https://ww.namu.la/s/035cdf1020a9d4ce85e118879c7ab3103324e6042be02e5fcd9b8fd80fba57dd90444ad1967755e95277719abb299cf316bf59f2aa14b4aded7561a65125fe8337ffee26843553dede66912d18936c0e899ce4a7e8eaee139ce5429838950b4b7e2896b9d040cb88c1c6ddc1dd2ae381"},
 {"div":"phone","name":"ZTE","url":"","logo":"https://w.namu.la/s/f6b7959528499ef39bf9a5aa6d445c4eeb2fafe75941fabb4bbf970f6c66f1a2710663382b2214b3721801dfd61d7e46f8282c195dcbb0a89c4cc2732850a9b8162f2b85894165c31a5aa20a218b339ddbb1f6a17c9431817b277ee551a65b3f"},
 {"div":"phone","name":"Xiaomi","url":"","logo":"https://w.namu.la/s/abea6cc910152603ac4c4de8030b0c1dbbbdcd2f67c2e91c7e41c349e06d98dabf0db1f43e29d1c2fc94adfd19a12ea774fb4649aebac81bfe63a1c64b574bbba25f60785467dc54f2a6c04946353ac0541d1218631514f3f2d2c74bea975c6d"},
